@@ -1,4 +1,4 @@
-# Nashville_Housing_Dataset
+# Data cleaning with PostgreSQL
 
 This repository shows the [Project1_Nashville_Housing](https://github.com/maryisabela15/SQL_Data_Analysis/blob/main/Project1_Nashville_Housing.sql).
 
